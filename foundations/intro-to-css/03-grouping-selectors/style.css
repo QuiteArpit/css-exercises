@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.primary-btn, .alternate-btn {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.primary-btn {
+    background-color: black;
+    color: white;
+}
+
+.alternate-btn {
+    background-color: yellow;
+}
